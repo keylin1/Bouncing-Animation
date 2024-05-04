@@ -5,10 +5,6 @@ var ctx = canvas.getContext("2d");
 
 var x = 0;
 var y = 0;
-
-// Here I am going to set the speed   
-//ctx.fillStyle = 'rgb(27, 73, 101)';
-//ctx.fillRect(x+250, 80, 520, 150);
 var incrementor = 2;
 
 function Square() {
